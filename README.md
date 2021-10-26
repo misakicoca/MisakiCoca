@@ -8,6 +8,6 @@
 
 - Email [Follow up here](mailto:misakicoca@gmail.com)
 
-### ✨ Magic Number
+### ✨ Visitor Counter
 
 ![Visited By](https://count.getloli.com/get/@MisakiCoca?theme=gelbooru)
