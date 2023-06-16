@@ -1,4 +1,4 @@
-**I'm Zhanbo Huang** 👋 / Research Assistant @ DUT / Major on Computer Vision.
+**I'm Zhanbo Huang** 👋 / CS PhD Student @ MSU / Major on Computer Vision.
 
 Visit my [blog](https://me.mcoca.dev),
 
