@@ -1,6 +1,6 @@
 **I'm Zhanbo Huang** 👋 / CS PhD Student @ MSU / Major on Computer Vision.
 
-Visit my [blog](https://me.mcoca.dev),
+Visit my [blog](https://zbhuang.com),
 
 Or follow me on [Twitter](https://twitter.com/misakicoca) / [哔哩哔哩](https://space.bilibili.com/10700100) / [Raycast](https://www.raycast.com/misakicoca).
 
@@ -24,8 +24,8 @@ Or follow me on [Twitter](https://twitter.com/misakicoca) / [哔哩哔哩](https
 
 ### 📪  Contact Information
 
-- Email [Follow up here](mailto:misakicoca@gmail.com)
-- Telegram [@MisakiCoca](https://t.me/MisakiCoca)
+- For Dev Related [Follow up here](mailto:dev@zbhuang.com)
+- For Academic Related [Follow up here](mailto:huang247@msu.edu) *Please use your institutional email account.*
 
 ### ✨  Visitor Counter
 
