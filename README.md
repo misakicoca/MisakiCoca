@@ -1,4 +1,4 @@
-**I'm HaKu** 👋 / CS PhD Student @ MSU / Major on Computer Vision.
+**I'm HaKu** 👋 / CS PhD Student / Major on Computer Vision.
 
 ### 📦  My Contributions on Open Source Projects
 
