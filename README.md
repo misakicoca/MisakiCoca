@@ -1,14 +1,4 @@
-**I'm Zhanbo Huang** 👋 / CS PhD Student @ MSU / Major on Computer Vision.
-
-Visit my [blog](https://zbhuang.com),
-
-Or follow me on [Twitter](https://twitter.com/misakicoca) / [哔哩哔哩](https://space.bilibili.com/10700100) / [Raycast](https://www.raycast.com/misakicoca).
-
-### 📚  My Publications
-
-- [TarDAL @CVPR22 **Oral**](https://github.com/JinyuanLiu-CV/TarDAL)
-- [ReCoNet @ECCV22](https://github.com/misakicoca/ReCoNet)
-- [SMoA @IEEE SPL](https://github.com/JinyuanLiu-CV/SMoA)
+**I'm HaKu** 👋 / CS PhD Student @ MSU / Major on Computer Vision.
 
 ### 📦  My Contributions on Open Source Projects
 
@@ -24,7 +14,7 @@ Or follow me on [Twitter](https://twitter.com/misakicoca) / [哔哩哔哩](https
 
 ### 📪  Contact Information
 
-- For Dev Related [Follow up here](mailto:dev@zbhuang.com)
+- For Dev Related [Follow up here](mailto:dev@mcoca.dev)
 - For Academic Related [Follow up here](mailto:huang247@msu.edu) *Please use your institutional email account.*
 
 ### ✨  Visitor Counter
